@@ -1,10 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-#### Plotting the bold game strategy
 
-import numpy as np
-import matplotlib.pyplot as plt
+#### Plotting the bold game strategy
 
 def phi(prob: float, x: float) -> float:
     if x == 0:
